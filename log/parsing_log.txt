@@ -1,0 +1,146 @@
+Fault:25-04-20 22:03:37 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:38 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:38 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:38 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:39 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:39 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:39 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:40 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:40 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:41 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:41 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:42 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:42 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:42 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:43 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:43 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:43 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:44 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:44 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:45 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:45 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:46 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:46 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:47 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:47 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:48 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:49 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:49 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:50 - Not correct Link during Parsing - http://cpa.fvds.ru/product/canvas
+Fault:25-04-20 22:03:50 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:51 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:51 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:52 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:52 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:53 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:53 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:53 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:54 - Not correct Link during Parsing - http://cpa.fvds.ru/product/canvas
+Fault:25-04-20 22:03:54 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:54 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:54 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:55 - Not correct Link during Parsing - http://cpa.fvds.ru/product/canvas
+Fault:25-04-20 22:03:55 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:55 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:56 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:56 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:57 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:57 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:58 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:58 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:25-04-20 22:03:58 - Not correct Link during Parsing - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:06:30 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:06:41 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:09:22 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:09:33 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:14:52 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:15:03 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:18:25 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:18:36 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:23:12 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:23:23 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:24:55 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:25:06 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:26:44 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:26:55 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:27-04-20 23:27:54 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:27-04-20 23:28:04 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:28-04-20 22:52:47 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:28-04-20 22:52:56 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:28-04-20 23:37:57 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:28-04-20 23:38:07 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:28-04-20 23:39:41 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:28-04-20 23:39:52 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:29-04-20 22:56:22 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:29-04-20 22:56:32 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:29-04-20 22:56:48 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:29-04-20 22:56:57 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:29-04-20 22:58:03 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:29-04-20 22:58:15 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:29-04-20 22:59:30 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:29-04-20 22:59:41 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 22:58:39 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 22:58:50 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 23:02:32 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 23:02:42 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 23:02:58 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 23:03:06 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 23:03:38 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 23:03:51 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 23:10:17 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 23:10:27 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:01-05-20 23:13:40 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:01-05-20 23:13:51 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:12-05-20 22:31:55 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:12-05-20 22:32:00 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:12-05-20 22:32:39 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:12-05-20 22:32:41 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:13-05-20 23:16:21 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:13-05-20 23:16:22 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:19-05-20 23:21:23 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:19-05-20 23:21:25 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 21:22:38 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 21:22:39 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 21:29:19 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 21:29:20 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 21:42:49 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 21:42:50 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 21:44:40 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 21:44:41 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 21:51:40 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:02:18 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:02:19 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:04:47 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:04:49 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:17:53 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:17:57 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:20:39 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:20:44 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:23:46 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:23:52 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:32:04 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:32:07 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:54:50 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:54:52 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 22:58:02 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 22:58:04 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:20-05-20 23:06:42 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:20-05-20 23:06:44 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:21-05-20 21:50:48 - Incorrect content type - http://cpa.fvds.ru
+Fault:21-05-20 23:00:18 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:21-05-20 23:01:08 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:21-05-20 23:01:10 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:25:07 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:25:12 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:26:28 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:26:30 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:27:38 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:27:40 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:28:23 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:28:28 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:30:22 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:30:24 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:03-12-20 22:31:35 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:03-12-20 22:31:37 - Incorrect server code - http://cpa.fvds.ru/product/canvas
+Fault:26-12-20 23:22:29 - Incorrect server code - http://cpa.fvds.ru/products/special-offer
+Fault:26-12-20 23:22:31 - Incorrect server code - http://cpa.fvds.ru/product/canvas
