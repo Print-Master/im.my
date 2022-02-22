@@ -67,7 +67,7 @@ password
     * git rebase -i --autosquash HEAD~3 -
 ## GIT Ignore
 * .gitignore - file in root directory of project fot untraking file or directory
-
+* git update-index --assume-unchanged \<file_name> - make file like always unchanged
 
 ## GIT Alias
 * [alias]
