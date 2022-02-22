@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a97a65-6057-4045-bf6a-ddd4b80e0bee" name="Default Changelist" comment="" />
+    <list default="true" id="03a97a65-6057-4045-bf6a-ddd4b80e0bee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userfiles/settings/git_settings_markdown" beforeDir="false" afterPath="$PROJECT_DIR$/userfiles/settings/git_settings_markdown" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,7 +404,7 @@
       <workItem from="1644869254240" duration="5037000" />
       <workItem from="1645211306580" duration="5901000" />
       <workItem from="1645296640692" duration="6237000" />
-      <workItem from="1645303117861" duration="13942000" />
+      <workItem from="1645303117861" duration="18206000" />
     </task>
     <servers />
   </component>

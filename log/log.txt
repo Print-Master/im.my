@@ -1,9 +1,9 @@
-Fault:12-01-20 0:13:13 - Incorrect address of site
+111Fault:12-01-20 0:13:13 - Incorrect address of site
 file Y:\domains\im.my\public_html\core\base\controllers\RouteController.php
-In line 83
+In line 83fdf
 
-Fault:12-01-20 0:20:29 - Not correct name file for conection - core/base/controllers/Nclass
-file Y:\domains\im.my\public_html\core\base\settings\internal_settings.php
+Fault:12-01-20 0:20:29 - Not correct name file for connection - core/base/controllers/Nclassff
+file Y:\domains\im.my\public_html\core\base\settings\internal_settings.phpfd
 In line 30
 
 Fault:13-01-20 0:17:15 - Not correct name file for connection - core/admin/controllers/IndexController
