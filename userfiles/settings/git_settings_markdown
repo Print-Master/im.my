@@ -47,6 +47,7 @@ password
 		    * git restore \<file> - discart changes in working directory
 			* git restore -- staged \<file> - remove changes to last version <unstage>
 * git commit -m "commit_name" - create new commit with name "commit_name"
+* git commit -a - commit all changes file
 * git commit --amend - merge changes to previous commit
 * git commit --fixup=\<hashe> - merge changes to previous commit
 * git diff --staged - show changes in stage area
