@@ -13302,3 +13302,483 @@ Fault:14-02-22 22:44:36 - Class core\user\controllers\TemplatesController does n
 file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
 In line 52
 
+Fault:18-02-22 23:49:51 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:51 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:51 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:51 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:51 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:51 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:52 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:52 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:52 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:52 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:53 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:53 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:53 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:53 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:53 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:53 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:54 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:54 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:54 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:54 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:55 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:55 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:55 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:55 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:55 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:55 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:57 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:57 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:57 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:57 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:57 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:57 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:57 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:57 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:57 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:57 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:58 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:58 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:18-02-22 23:49:58 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:18-02-22 23:49:58 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:04 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:04 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:07 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:07 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:07 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:07 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:10 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:10 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:11 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:11 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:11 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:11 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:12 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:12 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:12 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:12 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:12 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:12 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:14 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:14 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:14 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:14 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:16 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:16 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:20 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:20 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:20 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:20 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:20 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:20 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:21 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:21 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:21 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:21 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:19-02-22 22:25:21 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:19-02-22 22:25:21 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:11 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:11 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:12 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:12 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:13 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:13 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:13 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:13 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:14 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:14 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:14 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:14 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:14 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:14 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:15 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:15 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:16 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:16 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:16 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:16 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:16 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:16 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:17 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:17 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:17 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:17 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:18 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:18 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:18 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:18 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:18 - Not correct name file for connection - core/user/controllers/AssetsController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:18 - Class core\user\controllers\AssetsController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:20-02-22 22:39:19 - Not correct name file for connection - core/user/controllers/TemplatesController
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:20-02-22 22:39:19 - Class core\user\controllers\TemplatesController does not exist
+file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+

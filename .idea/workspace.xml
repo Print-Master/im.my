@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a97a65-6057-4045-bf6a-ddd4b80e0bee" name="Default Changelist" comment="" />
+    <list default="true" id="03a97a65-6057-4045-bf6a-ddd4b80e0bee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userfiles/settings/git_markdown_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userfiles/settings/git_settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userfiles/settings/git_settings_markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +81,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JoomlaConfiguration">
     <joomlaConfigPath />
@@ -193,7 +204,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1U9ycjX5yY9Mw3u78dek2vhlpG3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -203,6 +216,7 @@
     <property name="Constants" value="false" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/userfiles/default_images" />
@@ -210,7 +224,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.MySQL" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/userfiles/fromtend/assets" />
   </component>
   <component name="RecentsManager">
@@ -390,12 +404,28 @@
       <workItem from="1641405668053" duration="27328000" />
       <workItem from="1642096406261" duration="1807000" />
       <workItem from="1644429500623" duration="22771000" />
-      <workItem from="1644869254240" duration="752000" />
+      <workItem from="1644869254240" duration="5037000" />
+      <workItem from="1645211306580" duration="5901000" />
+      <workItem from="1645296640692" duration="6237000" />
+      <workItem from="1645303117861" duration="12478000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -431,6 +461,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644430659137" />
+    <state x="1150" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645386050701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1150" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645386050701" />
     <state x="1157" y="228" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1637867700655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -443,26 +477,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1093" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640208328208" />
+    <state x="946" y="114" key="CommitChangelistDialog2" timestamp="1645214020468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="946" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1645214020468" />
     <state width="525" height="466" key="DebuggerActiveHint" timestamp="1640028594914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="525" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1640028594914" />
-    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog" timestamp="1641581202867">
+    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog" timestamp="1645213946986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641581202867" />
+    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645213946986" />
     <state x="758" y="222" key="ExecutionTargetDialog" timestamp="1637086884300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="222" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637086884300" />
-    <state x="1090" y="278" key="FileChooserDialogImpl" timestamp="1644864228371">
+    <state x="1090" y="278" key="FileChooserDialogImpl" timestamp="1645303037469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1090" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644864228371" />
-    <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1637091471209">
+    <state x="1090" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645303037469" />
+    <state x="1055" y="275" key="GistSnippet.InsertGistDialog" timestamp="1645215442817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637091471209" />
+    <state x="1055" y="275" key="GistSnippet.InsertGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645215442817" />
+    <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1645215410440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645215410440" />
     <state width="1159" height="412" key="GridCell.Tab.0.bottom" timestamp="1641749148023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -527,10 +569,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1183" y="296" key="PhpMappingAdvancedResolveDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636749317050" />
-    <state x="291" y="55" width="1247" height="719" key="SettingsEditor" timestamp="1637869881618">
+    <state x="291" y="55" width="1247" height="719" key="SettingsEditor" timestamp="1645388530727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="291" y="55" width="1247" height="719" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1637869881618" />
+    <state x="291" y="55" width="1247" height="719" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645388530727" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1638548411783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -571,10 +613,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="165" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636909824712" />
-    <state x="1063" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1644432210115">
+    <state x="841" y="232" width="894" height="678" key="search.everywhere.popup" timestamp="1645388526682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1063" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644432210115" />
+    <state x="841" y="232" width="894" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645388526682" />
   </component>
   <component name="WordPressConfiguration">
     <wordpressPath />
