@@ -140,4 +140,45 @@
             
             return preg_replace('/\/{2,}/', '/', PATH . $alias . END_SLASH . $str);
             }
+            
+            
+        protected function wordsForCounters ($Counters, $arrEllement = 'years'){
+        
+            $arrEllement = [
+                'years' => [
+                    'лет',
+                    'год',
+                    'года'
+                ]
+            ];
+            
+            if (is_array($arrEllement)){
+                
+                $arr = $arrEllement;
+            }else{
+                
+                $arr = $arr[$arrEllement] ?? array_shift($arr);
+            }
+            
+            if(!$arr)
+                
+                return null;
+            
+            $char = (int)substr($couunter, -1);
+            
+            $counter = (int)substr($couunter, -2);
+            
+            if(($counter>=10 && $counter<=20) || ($char >=5 && $char <= 9) || ! $char)
+                return $arr[0] ?? null;
+            
+                elseif ($char===1)
+                    return $arr[1] ?? null;
+                else
+                    return $arr[2] ?? null;
+                    
         }
+        
+        
+        
+        }
+        

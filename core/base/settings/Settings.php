@@ -47,9 +47,8 @@ class Settings
 
     private $projectTables = [
         'catalog' => ['name'=>'Каталог'],
-        
         'goods' => ['name'=> 'Товары','img'=> 'pages.png'],
-        'filters' => ['name'=> 'Фильтры'],
+        'filters' => [' name'=> 'Фильтры'],
         'articles' => ['name'=>'Статьи'],
         'information' => ['name'=> 'Информация'],
         'socials'=> ['name' => 'Социальные сети'],

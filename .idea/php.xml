@@ -2,8 +2,10 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="s:/programing&amp;developed/web_developer/ospanel/modules/php/PHP_7.2-x64" />
+      <path value="$PROJECT_DIR$" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
 </project>

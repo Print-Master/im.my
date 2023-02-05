@@ -1,4 +1,4 @@
-    
+
     <section class="slider">
         <div class="slider__container swiper-container">
             
@@ -13,7 +13,7 @@
                         </div>
                         <div class="slider__item-logos">
                             <div class="slider__item-15yrs">
-                                <img src="assets/img/slider/15.svg" alt="">
+                                <img src="<?=PATH.TEMPLATE?>/assets/img/slider/15.svg" alt="">
                                 <p><span>Лет</span>на рынке</p>
                             </div>
                         </div>

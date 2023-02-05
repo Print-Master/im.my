@@ -31,16 +31,15 @@
                     <ul class="header__nav-list">
                             <?php if (!empty($this->menu['catalog'])):?>
                         <li class="header__nav-parent">
-                            <?php endif;?>
                         
-                            <li class="">
+<!--                            <li class="">-->
                             <a href="<?=$this->alias('catalog')?>"><span>Каталог</span></a>
                             <ul class="header__nav-sublist">
                                 
                                 <?php foreach ($this->menu['catalog'] as $item):?>
     
                                     <li>
-                                        <a href="<?php $this->alias(['catalog'=> $item['alias']])
+                                        <a href="<?=$this->alias(['catalog'=> $item['alias']])
                                         ?>"><span><?=$item['name']?></span></a>
                                     </li>
                                 
@@ -48,6 +47,8 @@
                                 
                             </ul>
                         </li>
+
+                            <?php endif;?>
                         
                         <?php if (!empty($this->menu['information'])):?>
                             <?php foreach ($this->menu['information'] as $item):?>
@@ -56,11 +57,11 @@
                                     <a href="<?=$this->alias(['information'=>$item['alias']])?>">
                                         <span><?=$item['name']?></span></a>
                                     <ul class="header__nav-sublist">
-            
+    
                                     </ul>
                                 </li>
-                              
-                                <?php endforeach;?>
+                                
+                            <?php endforeach;?>
                         
                         <?php endif;?>
 
@@ -97,7 +98,7 @@
                     </div>
                 </div>
                 
-                <?php  if (!empty('socials')):?>
+                <?php  if (!empty($this->socials)):?>
                     
                     <?php foreach ($this->socials as $item):?>
     
@@ -132,13 +133,13 @@
                         <ul class="header__menu_sublist">
 
                             <?php foreach ($this->menu['catalog'] as $item):?>
-                            
-                            <?php endforeach;?>
-    
+                         
                             <li>
                                 <a href="<?=$this->alias(['catalog'=>$item['alias']])
                                 ?>"><span><?=$item['name']?></span></a>
                             </li>
+                            
+                            <?php endforeach;?>
                             
                         </ul>
 

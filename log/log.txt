@@ -13782,3 +13782,103 @@ Fault:20-02-22 22:39:19 - Class core\user\controllers\TemplatesController does n
 file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\controllers\BaseController.php
 In line 52
 
+Fault:31-05-22 22:27:39 - Incorrect address of site
+file P:\Program_Directory\Development\Web_Server\Open_Server\OSPanel_Classic\domains\WEB_Shop\im.my\public_html\core\base\controllers\RouteController.php
+In line 90
+
+Fault:30-08-22 23:59:55 - Incorrect address of site
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\RouteController.php
+In line 90
+
+Fault:31-08-22 0:02:34 - Not correct name file for connection - core/user/controllers/Public_htmlController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 22:19:26 - Class core\user\controllers\Watsapp.comController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:25-10-22 22:19:30 - Class core\user\controllers\Youtube.comController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:25-10-22 23:07:01 - Not correct name file for connection - core/user/controllers/InformationController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 23:07:33 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 23:15:30 - Not correct name file for connection - core/user/controllers/InformationController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 23:42:51 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 23:48:42 - Not correct name file for connection - core/user/controllers/InformationController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:25-10-22 23:48:46 - Not correct name file for connection - core/user/controllers/CartController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:26-10-22 0:11:20 - Class core\user\controllers\_intellij_phpdebug_validator.phpController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 0:12:32 - Class core\user\controllers\_intellij_phpdebug_validator.phpController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 0:12:56 - Class core\user\controllers\_intellij_phpdebug_validator.phpController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 0:12:57 - Class core\user\controllers\_intellij_phpdebug_validator.phpController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 22:44:28 - Not correct name file for connection - core/user/controllers/InformationController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:26-10-22 22:46:57 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:26-10-22 22:47:35 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:26-10-22 22:47:42 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:26-10-22 22:54:56 - Class core\user\controllers\Youtube.comController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 23:20:30 - Class core\user\controllers\Youtube.comController does not exist
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\controllers\BaseController.php
+In line 52
+
+Fault:26-10-22 23:55:09 - Not correct name file for connection - core/user/controllers/NewsController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:27-10-22 0:09:14 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:31-10-22 23:56:42 - Not correct name file for connection - core/user/controllers/ShowController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+
+Fault:31-10-22 23:57:00 - Not correct name file for connection - core/user/controllers/CatalogController
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\settings\internal_settings.php
+In line 64
+

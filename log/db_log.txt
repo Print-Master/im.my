@@ -2947,3 +2947,7 @@ Fault:10-02-22 22:20:11 - Error in SQL requestSHOW COLUMNS FROM show_top_menu-11
 file S:\programing_developed\web_developer\OSPanel\domains\im.my\public_html\core\base\models\BaseModel.php
 In line 36
 
+Fault:31-08-22 0:02:32 - Error connect to DataBase: 1049 Unknown database 'im'
+file S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html\core\base\models\BaseModel.php
+In line 18
+

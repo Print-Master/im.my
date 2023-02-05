@@ -3,9 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="03a97a65-6057-4045-bf6a-ddd4b80e0bee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin/views/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin/views/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/base/settings/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/base/settings/Settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/user/controllers/BaseUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/controllers/BaseUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/user/controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/controllers/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/db_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/db_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userfiles/settings/git_settings_markdown" beforeDir="false" afterPath="$PROJECT_DIR$/userfiles/settings/git_settings_markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/user_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/user_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -100,104 +108,29 @@
   <component name="PhpDebugGeneral" hide_empty_superglobals="false" listening_started="true" />
   <component name="PhpServers">
     <servers>
-      <server host="im.my" id="b532da92-38ad-441e-8aad-74ef0f2b8158" name="im.my">
+      <server host="im.my" id="fd7a3a3a-36bd-489f-a6d9-bb9ed1438f49" name="im.my" use_path_mappings="true">
         <path_mappings>
-          <mapping local-root="$PROJECT_DIR$" remote-root="Y:/domains/im.my/public_html" />
-          <mapping local-root="$PROJECT_DIR$/.htaccess" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/.htaccess" />
-          <mapping local-root="$PROJECT_DIR$/.idea" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/.idea" />
-          <mapping local-root="$PROJECT_DIR$/config.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/config.php" />
-          <mapping local-root="$PROJECT_DIR$/core" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core" />
-          <mapping local-root="$PROJECT_DIR$/core/admin" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/AddController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/AddController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/AjaxController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/AjaxController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/BaseAdmin.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/BaseAdmin.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/CreatesitemapController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/CreatesitemapController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/IndexController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/IndexController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/controllers/ShowController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/controllers/ShowController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/expansions" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/expansions" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/expansions/TeachersExpansion.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/expansions/TeachersExpansion.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/models" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/models" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/models/Model.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/models/Model.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/add.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/add.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/css" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/css" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/css/main.css" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/css/main.css" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img/menu-button.png" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img/menu-button.png" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img/out.png" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img/out.png" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img/pages.png" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img/pages.png" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img/plus.png" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img/plus.png" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/img/search.png" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/img/search.png" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/footer.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/footer.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/gallery_img.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/gallery_img.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/img.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/img.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/radio.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/radio.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/select.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/select.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/text.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/text.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/form_templates/textarea.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/form_templates/textarea.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/include/header.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/include/header.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/js" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/js" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/layout" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/layout" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/layout/default.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/layout/default.php" />
-          <mapping local-root="$PROJECT_DIR$/core/admin/views/show.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/admin/views/show.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/BaseAjax.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/BaseAjax.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/BaseController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/BaseController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/BaseMethods.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/BaseMethods.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/BaseRoute.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/BaseRoute.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/RouteController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/RouteController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/controllers/Singleton.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/controllers/Singleton.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/exceptions" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/exceptions" />
-          <mapping local-root="$PROJECT_DIR$/core/base/exceptions/DbException.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/exceptions/DbException.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/exceptions/RouteException.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/exceptions/RouteException.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/exceptions/messages.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/exceptions/messages.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/messages" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/messages" />
-          <mapping local-root="$PROJECT_DIR$/core/base/messages/informationMessages.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/messages/informationMessages.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/models" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/models" />
-          <mapping local-root="$PROJECT_DIR$/core/base/models/BaseModel.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/models/BaseModel.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/models/BaseModelMethods.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/models/BaseModelMethods.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/models/Model.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/models/Model.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/settings" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/settings" />
-          <mapping local-root="$PROJECT_DIR$/core/base/settings/BaseSettings.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/settings/BaseSettings.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/settings/Settings.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/settings/Settings.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/settings/ShopSettings.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/settings/ShopSettings.php" />
-          <mapping local-root="$PROJECT_DIR$/core/base/settings/internal_settings.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/base/settings/internal_settings.php" />
-          <mapping local-root="$PROJECT_DIR$/core/plugins" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/plugins" />
-          <mapping local-root="$PROJECT_DIR$/core/plugins/shop" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/plugins/shop" />
-          <mapping local-root="$PROJECT_DIR$/core/plugins/shop/IndexController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/plugins/shop/IndexController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/user" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/user" />
-          <mapping local-root="$PROJECT_DIR$/core/user/controllers" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/user/controllers" />
-          <mapping local-root="$PROJECT_DIR$/core/user/controllers/AjaxController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/user/controllers/AjaxController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/user/controllers/IndexController.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/user/controllers/IndexController.php" />
-          <mapping local-root="$PROJECT_DIR$/core/user/models" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/core/user/models" />
-          <mapping local-root="$PROJECT_DIR$/index.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/index.php" />
-          <mapping local-root="$PROJECT_DIR$/libraries" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/libraries" />
-          <mapping local-root="$PROJECT_DIR$/libraries/FileEdit.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/libraries/FileEdit.php" />
-          <mapping local-root="$PROJECT_DIR$/libraries/TextModify.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/libraries/TextModify.php" />
-          <mapping local-root="$PROJECT_DIR$/libraries/functions.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/libraries/functions.php" />
-          <mapping local-root="$PROJECT_DIR$/log" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/log" />
-          <mapping local-root="$PROJECT_DIR$/log/db_log.txt" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/log/db_log.txt" />
-          <mapping local-root="$PROJECT_DIR$/log/log.txt" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/log/log.txt" />
-          <mapping local-root="$PROJECT_DIR$/log/parsing_log.txt" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/log/parsing_log.txt" />
-          <mapping local-root="$PROJECT_DIR$/sitemap.xml" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/sitemap.xml" />
-          <mapping local-root="$PROJECT_DIR$/templates" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates" />
-          <mapping local-root="$PROJECT_DIR$/templates/default" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates/default" />
-          <mapping local-root="$PROJECT_DIR$/templates/default/footer.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates/default/footer.php" />
-          <mapping local-root="$PROJECT_DIR$/templates/default/header.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates/default/header.php" />
-          <mapping local-root="$PROJECT_DIR$/templates/default/index.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates/default/index.php" />
-          <mapping local-root="$PROJECT_DIR$/templates/default/templater.php" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/templates/default/templater.php" />
-          <mapping local-root="$PROJECT_DIR$/userfiles" remote-root="D:/Program/WEB_Developer/OSPanel/domains/im.my/public_html/userfiles" />
+          <mapping local-root="$PROJECT_DIR$" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html" />
+          <mapping local-root="$PROJECT_DIR$/.gitignore" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/.gitignore" />
+          <mapping local-root="$PROJECT_DIR$/.htaccess" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/.htaccess" />
+          <mapping local-root="$PROJECT_DIR$/.idea" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/.idea" />
+          <mapping local-root="$PROJECT_DIR$/config.php" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/config.php" />
+          <mapping local-root="$PROJECT_DIR$/core" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/core" />
+          <mapping local-root="$PROJECT_DIR$/index.php" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/index.php" />
+          <mapping local-root="$PROJECT_DIR$/libraries" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/libraries" />
+          <mapping local-root="$PROJECT_DIR$/log" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/log" />
+          <mapping local-root="$PROJECT_DIR$/sitemap.xml" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/sitemap.xml" />
+          <mapping local-root="$PROJECT_DIR$/temp" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/temp" />
+          <mapping local-root="$PROJECT_DIR$/templates" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/templates" />
+          <mapping local-root="$PROJECT_DIR$/userfiles" remote-root="S:/Development/Web_Server/OpenServer/4.2/Work/OSPanel/domains/WEB_Shop/im.my/public_html/userfiles" />
         </path_mappings>
       </server>
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP _7.2-64x">
+  <component name="PhpWebServerValidation" path_to_validation_script="S:\Development\Web_Server\OpenServer\4.2\Work\OSPanel\domains\WEB_Shop\im.my\public_html" selected_validation_type="LOCAL" web_path_to_validation_script="http://im.my" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
-      <path value="s:/programing&amp;developed/web_developer/ospanel/modules/php/PHP_7.2-x64" />
+      <path value="$PROJECT_DIR$" />
     </include_path>
   </component>
   <component name="ProjectId" id="1U9ycjX5yY9Mw3u78dek2vhlpG3" />
@@ -206,23 +139,24 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Constants" value="false" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/userfiles/default_images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/userfiles/fromtend/assets" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -271,6 +205,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -405,215 +340,38 @@
       <workItem from="1645211306580" duration="5901000" />
       <workItem from="1645296640692" duration="6237000" />
       <workItem from="1645303117861" duration="18206000" />
+      <workItem from="1653162277060" duration="390000" />
+      <workItem from="1653239186509" duration="687000" />
+      <workItem from="1666724229990" duration="8148000" />
+      <workItem from="1666812895330" duration="6699000" />
+      <workItem from="1666898166545" duration="2044000" />
+      <workItem from="1669997182275" duration="25000" />
+      <workItem from="1669997218152" duration="1173000" />
+      <workItem from="1669998422148" duration="5335000" />
+      <workItem from="1675620108126" duration="14000" />
+      <workItem from="1675620139344" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="867" y="182" key="#Custom_Plugin_Repositories" timestamp="1636915019443">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="867" y="182" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1636915019443" />
-    <state x="969" y="182" width="816" height="774" key="#Intentions" timestamp="1639927833248">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="969" y="182" width="816" height="774" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1639927833248" />
-    <state x="1097" y="212" key="#Model.php" timestamp="1637867825922">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1097" y="212" key="#Model.php/0.0.1920.1040@0.0.1920.1040" timestamp="1637867825922" />
-    <state x="969" y="185" key="#Notifications" timestamp="1637091872330">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="969" y="185" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1637091872330" />
-    <state x="533" y="106" key="#PHP" timestamp="1637867818540">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="533" y="106" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1637867818540" />
-    <state x="552" y="178" key="#Plugins" timestamp="1637355167164">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1637355167164" />
-    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644430659137">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644430659137" />
-    <state x="1150" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645386050701">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1150" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645386050701" />
-    <state x="1157" y="228" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1637867700655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1157" y="228" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637867700654" />
-    <state x="1001" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1641667268593">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1001" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641667268593" />
-    <state x="1093" y="273" key="#xdebugger.XInspectDialog" timestamp="1640208328208">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1093" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640208328208" />
-    <state x="946" y="114" key="CommitChangelistDialog2" timestamp="1645214020468">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="946" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1645214020468" />
-    <state width="525" height="466" key="DebuggerActiveHint" timestamp="1640028594914">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="525" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1640028594914" />
-    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog" timestamp="1645213946986">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="526" y="132" width="1033" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645213946986" />
-    <state x="758" y="222" key="ExecutionTargetDialog" timestamp="1637086884300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="758" y="222" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637086884300" />
-    <state x="1090" y="278" key="FileChooserDialogImpl" timestamp="1645303037469">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1090" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645303037469" />
-    <state x="1055" y="275" key="GistSnippet.InsertGistDialog" timestamp="1645215442817">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1055" y="275" key="GistSnippet.InsertGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645215442817" />
-    <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1645215410440">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645215410440" />
-    <state width="1159" height="412" key="GridCell.Tab.0.bottom" timestamp="1641749148023">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148023" />
-    <state width="1159" height="412" key="GridCell.Tab.0.center" timestamp="1641749148021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148021" />
-    <state width="1159" height="412" key="GridCell.Tab.0.left" timestamp="1641749148021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148021" />
-    <state width="1159" height="412" key="GridCell.Tab.0.right" timestamp="1641749148022">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148022" />
-    <state width="1159" height="412" key="GridCell.Tab.1.bottom" timestamp="1641749148025">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148025" />
-    <state width="1159" height="412" key="GridCell.Tab.1.center" timestamp="1641749148024">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148024" />
-    <state width="1159" height="412" key="GridCell.Tab.1.left" timestamp="1641749148023">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148023" />
-    <state width="1159" height="412" key="GridCell.Tab.1.right" timestamp="1641749148024">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148024" />
-    <state width="1159" height="412" key="GridCell.Tab.2.bottom" timestamp="1641749148027">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148027" />
-    <state width="1159" height="412" key="GridCell.Tab.2.center" timestamp="1641749148026">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148026" />
-    <state width="1159" height="412" key="GridCell.Tab.2.left" timestamp="1641749148025">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148025" />
-    <state width="1159" height="412" key="GridCell.Tab.2.right" timestamp="1641749148027">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1159" height="412" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641749148027" />
-    <state x="967" y="258" key="IDE.errors.dialog" timestamp="1637870996448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="967" y="258" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637870996448" />
-    <state x="901" y="334" width="741" height="500" key="NewPhpClassDialog" timestamp="1641669584362">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="901" y="334" width="741" height="500" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641669584362" />
-    <state x="1204" y="443" key="NewPhpFileDialog" timestamp="1638546503755">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1204" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638546503755" />
-    <state x="1183" y="296" key="PhpMappingAdvancedResolveDialog" timestamp="1636749317050">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1183" y="296" key="PhpMappingAdvancedResolveDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636749317050" />
-    <state x="291" y="55" width="1247" height="719" key="SettingsEditor" timestamp="1645388530727">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="291" y="55" width="1247" height="719" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645388530727" />
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1638548411783">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638548411783" />
-    <state x="1121" y="268" width="570" height="524" key="StructurePopup" timestamp="1637082229500">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1121" y="268" width="570" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1637082229500" />
-    <state width="616" height="520" key="XDebugger.FullValuePopup" timestamp="1638700270007">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="616" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1638700270007" />
-    <state x="1174" y="391" width="326" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1644430741138">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1174" y="391" width="326" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1644430741138" />
-    <state x="957" y="182" key="com.intellij.database.dbimport.ImportDialog" timestamp="1637086135071">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="957" y="182" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637086135071" />
-    <state x="1040" y="325" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1638695978844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1040" y="325" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638695978844" />
-    <state x="1142" y="336" width="408" height="352" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1644611117451">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1142" y="336" width="408" height="352" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644611117451" />
-    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1637089036180">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1637089036180" />
-    <state x="1116" y="156" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1644611670624">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1116" y="156" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644611670624" />
-    <state x="706" y="165" width="700" height="530" key="recent.locations.popup" timestamp="1636909824712">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="706" y="165" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636909824712" />
-    <state x="841" y="232" width="894" height="678" key="search.everywhere.popup" timestamp="1645388526682">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="841" y="232" width="894" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645388526682" />
   </component>
   <component name="WordPressConfiguration">
     <wordpressPath />
@@ -622,25 +380,20 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/core/admin/controllers/SearchController_1.php</url>
-          <line>17</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/core/user/controllers/IndexController.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/core/user/controllers/IndexController.php</url>
-          <line>20</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php-line-method">
-          <url>file://$PROJECT_DIR$/core/base/models/BaseModel.php</url>
-          <line>206</line>
-          <properties>
-            <option name="className" value="\core\base\models\BaseModel" />
-            <option name="methodName" value="delete" />
-          </properties>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/core/user/controllers/BaseUser.php</url>
+          <line>154</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
