@@ -142,16 +142,16 @@
             }
             
             
-        protected function wordsForCounters ($Counters, $arrEllement = 'years'){
-        
-            $arrEllement = [
+        protected function wordsForCounters ($counter, $arrEllement = 'years'){
+
+            $arr = [
                 'years' => [
                     'лет',
                     'год',
                     'года'
                 ]
             ];
-            
+
             if (is_array($arrEllement)){
                 
                 $arr = $arrEllement;
@@ -164,11 +164,11 @@
                 
                 return null;
             
-            $char = (int)substr($couunter, -1);
+            $char = (int)substr($counter, -1);
             
-            $counter = (int)substr($couunter, -2);
+            $counter = (int)substr($counter, -2);
             
-            if(($counter>=10 && $counter<=20) || ($char >=5 && $char <= 9) || ! $char)
+            if (( $counter >= 10 && $counter <= 20) || ($char >=5 && $char <= 9) || !$char)
                 return $arr[0] ?? null;
             
                 elseif ($char===1)

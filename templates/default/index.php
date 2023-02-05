@@ -6,8 +6,10 @@
                 <div class="slider__item swiper-slide">
                     <div class="slider__item-description">
                         <div class="slider__item-prev-text">Продажа</div>
-                        <div class="slider__item-header"><span>Интернет-магазин</span>
-                            <span>Автозапчастей</span></div>
+                        <div class="slider__item-header">
+                            <span>Интернет-магазин</span>
+                            <span>Автозапчастей</span>
+                        </div>
                         <div class="slider__item-text">
                             Lorem ipsum dolor, sit amet consectetur adipisicing, elit. Ut quisquam eos rem quod ratione. Quam odit dolor, aperiam labore neque quis adipisci dicta non, rem recusandae tempore quia id quas voluptates ea vel atque doloribus explicabo maxime velit harum, accusantium.
                         </div>

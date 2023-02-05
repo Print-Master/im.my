@@ -15,7 +15,7 @@ class IndexController extends BaseUser
     
         parent::inputData();
         
-        $years = $this->wordsForCounters(111);
+        $years = $this->wordsForCounters(22);
         
         $a = 43;
         
