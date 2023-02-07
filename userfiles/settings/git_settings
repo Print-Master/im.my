@@ -49,6 +49,7 @@ Help
 	git remote add origin https://github.com/Print-Master/im.my.git - add remote repository
 
 	git branch (alias <br>) - show all branch amd current branch
+	git branch - a  - all local branch and from repository
 		git branch <name_branch> - create new branch <name_branch>
 			git branch -D <name_branch> - delete branch <name_branch>
 				git checkout (alias <co>) <name_branch> - switch to branch <name_branch>
